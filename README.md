@@ -4,6 +4,8 @@
   <img src="vedat.gif" width="600"/>
 </p>
 
+---
+
 🚀 **Software Engineering Student | Future Full Stack & AI Developer**  
 
 ---
@@ -36,13 +38,6 @@
 ## 📊 GitHub Stats  
 ![Vedat's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical)  
-
----
-
-## 🚀 Featured Projects  
-- [**libft**](https://github.com/VedatZeybek/libft) – C language library  
-- [**push_swap**](https://github.com/VedatZeybek/push_swap) – Sorting algorithm project  
-- [**Flutter App**](https://github.com/VedatZeybek/flutter_app) – A mobile app built with Flutter  
 
 ---
 
