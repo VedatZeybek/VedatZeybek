@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vedat Zeybek  
 
 <p align="center">
-  <img src="vedat.gif" width="400"/>
+  <img src="vedat.gif" width="600"/>
 </p>
 
 🚀 **Software Engineering Student | Future Full Stack & AI Developer**  
