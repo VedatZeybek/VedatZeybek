@@ -8,16 +8,11 @@
 - 🎓 Software Engineering 3rd year student  
 - 🌱 Currently learning **C++**, **Data Structures**, **AI with Python**  
 - 💡 Interested in **AI**, **Mobile Development**, **Full Stack**  
-- 🎯 Goal: Become a top-level software engineer & move to the US  
-- ⚡ Fun fact: I write more code than I drink coffee (and that's saying something ☕)  
-
+- 🎯 Goal: Become a top-level software engineer
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vedatzeybek)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/VedatZeybek)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedat-zeybek-13a054250/)  
 ---
 
 ## 🛠️ Languages & Tools  
