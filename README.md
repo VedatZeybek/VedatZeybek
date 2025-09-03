@@ -38,8 +38,7 @@
 ## 📊 GitHub Stats  
 ![Vedat's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical)  
-
-![Vedat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedatZeybek&theme=dark&hide_border=true)
+![Vedat's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VedatZeybek&theme=react-dark)
 
 
 ---
