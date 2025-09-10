@@ -36,11 +36,19 @@
 ---
 
 ## 📊 GitHub Stats  
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical" alt="Vedat's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-</div> 
-![Vedat's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VedatZeybek&theme=react-dark)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical" alt="Vedat's GitHub stats" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+    </td>
+  </tr>
+</table>
+
+![Vedat's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VedatZeybek&theme=react-dark)  
 ![Profile views](https://komarev.com/ghpvc/?username=VedatZeybek&label=Profile%20views&color=0e75b6&style=flat)
 
 
