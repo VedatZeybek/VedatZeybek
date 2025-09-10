@@ -40,10 +40,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical" alt="Vedat's GitHub stats" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical" alt="Vedat's GitHub stats" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical" alt="Top Langs" height="200"/>
     </td>
   </tr>
 </table>
