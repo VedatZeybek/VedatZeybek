@@ -39,6 +39,7 @@
 ![Vedat's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedatZeybek&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedatZeybek&layout=compact&theme=radical)  
 ![Vedat's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VedatZeybek&theme=react-dark)
+![Profile views](https://komarev.com/ghpvc/?username=VedatZeybek&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
