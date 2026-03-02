@@ -11,6 +11,9 @@
     <tr>
     <td><img src="./gifs/005.gif" width="320" /></td>
     </tr>
-    <td><img src="./gifs/009.gif" width="720" /></td>
   </table>
 </div>
+<br/>
+<p align="center">
+  <img src="gifs/009.gif" width="900" />
+</p>
