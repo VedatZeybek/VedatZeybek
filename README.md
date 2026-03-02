@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <table>
     <tr>
@@ -14,3 +15,4 @@
 <p align="center">
   <img src="gifs/009.gif" width="600" />
 </p>
+>>
