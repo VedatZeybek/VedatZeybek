@@ -5,11 +5,8 @@
     <td><img src="./gifs/002.gif" width="380" /></td>
     </tr>
     <tr>
-    <td><img src="./gifs/003.gif" width="380" /></td>
-    <td><img src="./gifs/004.gif" width="380" /></td>
-    </tr>
-    <tr>
     <td><img src="./gifs/005.gif" width="380" /></td>
+    <td><img src="./gifs/004.gif" width="380" /></td>
     </tr>
   </table>
 </div>
